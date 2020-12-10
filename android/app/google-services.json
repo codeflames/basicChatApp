@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1076850034199",
+    "firebase_url": "https://chatzy-a2c82.firebaseio.com",
+    "project_id": "chatzy-a2c82",
+    "storage_bucket": "chatzy-a2c82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076850034199:android:355f543f013b986e7f7e52",
+        "android_client_info": {
+          "package_name": "com.mytutorial.flutterapp.basic_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076850034199-b4ip897gsot0e5eec43p7koff6osgau5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnfDxrDe1KYaMw9uM1TM6GJrEG9N8sa28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076850034199-b4ip897gsot0e5eec43p7koff6osgau5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
